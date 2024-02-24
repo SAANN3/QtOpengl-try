@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fshader.frag</file>
+        <file>vshader.vsh</file>
+        <file>ShadowVShader.vsh</file>
+        <file>ShadowFShader.frag</file>
+        <file>ShadowDShader.gs</file>
+    </qresource>
+</RCC>
