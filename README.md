@@ -10,14 +10,12 @@ For example this big rectangle working as a ground
 ```
 rectangles.append(new Rectangle(1000.0,0.5,1000.0,1.0,0.0,-10.0,0));
 ```
-Also at if you dislike red background you can change it in same function
+Also  if you dislike red background you can change it in same function
 ```
 glClearColor(1.0f, 0.2f, 0.2f, 1.0f);
 ```
 change values inside to your taste
 
-
-Also not having files in src folder and instead in root directory feels very weird to me
 
 # Movement
 Simply looking at one picture is quite boring, this means we should find a way to move around, right?
@@ -37,3 +35,5 @@ Function ```keyPressEvent``` in the same, glwindow.cpp, helps us with that. Here
 Also if you hold a left mouse button, you can change camera view(rotate camera)
 # How to use?
 Haven't tested on windows(i think it'll work) but on linux it straightforward - Clone repo, open QtCreator, open repo in it and run
+### P. S.
+Not having files in separate src folder and instead in root directory feels very weird to me
