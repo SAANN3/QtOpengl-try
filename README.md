@@ -14,8 +14,11 @@ Also at if you dislike red background you can change it in same function
 ```
 glClearColor(1.0f, 0.2f, 0.2f, 1.0f);
 ```
-Also not having files in src folder and instead in root directory feels very weird to me
 change values inside to your taste
+
+
+Also not having files in src folder and instead in root directory feels very weird to me
+
 # Movement
 Simply looking at one picture is quite boring, this means we should find a way to move around, right?
 
