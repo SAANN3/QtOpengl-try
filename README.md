@@ -34,6 +34,9 @@ Function ```keyPressEvent``` in the same, glwindow.cpp, helps us with that. Here
 
 Also if you hold a left mouse button, you can change camera view(rotate camera)
 # How to use?
+
 Haven't tested on windows(i think it'll work) but on linux it straightforward - Clone repo, open QtCreator, open repo in it and run
+
+UPDATE: it seems that with default desktop kit(maybe only for me) qt creator not able to find qtopenglwidgets. If you have this error, i recommend changing to desktop kit qt 6.6.1 
 ### P. S.
 Not having files in separate src folder and instead in root directory feels very weird to me
